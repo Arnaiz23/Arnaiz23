@@ -6,7 +6,7 @@
 
 ## Hello :wave:
 
-I'm Adrián Arnaiz Fernández. Actually I doing practise of "Grado Superior" in the business SecretAligner. I'm a frontend developer.
+I'm Adrián Arnaiz Fernández. Currently I doing practise of "Grado Superior" in the business SecretAligner. I'm a frontend developer.
 
 ## Contact
 
