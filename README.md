@@ -1,9 +1,14 @@
-# Adrián Arnaiz | @Arnaiz23
+<div align="center">
+    <img src="./BrandTransparentMD.png" align="center">
+</div>
 
-## Hola :wave:
+<h1 align="center">Adrián Arnaiz - @Arnaiz23</h1>
 
+## Hello :wave:
 
-## Contacto
+I'm Adrián Arnaiz Fernández. Actually I doing practise of "Grado Superior" in the business SecretAligner. I'm a frontend developer.
+
+## Contact
 
 * [Linkedin](https://es.linkedin.com/in/adri%C3%A1n-arnaiz-fern%C3%A1ndez-b67743227/en?trk=people-guest_people_search-card)
 * <a href="mailto:adri.arnaizfernandez@gmail.com">Email</a>
