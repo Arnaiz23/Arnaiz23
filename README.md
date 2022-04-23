@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./BrandTransparentMD.png" align="center">
+    <img src="./BrandTransparentMD.png" align="center" alt="brand arnaizdev">
 </div>
 
 <h1 align="center">Adrián Arnaiz - @Arnaiz23</h1>
