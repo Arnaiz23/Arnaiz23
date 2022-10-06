@@ -51,13 +51,7 @@ const setUp = {
 
 ## Contact
 
-<div style="display: flex; gap: 10px; align-items: center; justify-content: flex-start;">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Personio&logoColor=000)](https://arnaizdev.com)
-
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://es.linkedin.com/in/adri%C3%A1n-arnaiz-fern%C3%A1ndez-b67743227/en?trk=people-guest_people_search-card)
-
 <a href="mailto:adri.arnaizfernandez@gmail.com">![Mail](https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Minutemailer&logoColor=fff)</a>
-
-</div>
 
