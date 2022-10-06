@@ -52,7 +52,12 @@ const setUp = {
 ## Contact
 
 <div style="display: flex; gap: 10px; align-items: center; justify-content: flex-start;">
-<a href="https://arnaizdev.com" style="padding: 5px; background-color: #3e4144; color: #fff; font-size: 16px; border-radius: 10px; text-decoration: none">Portfolio</a>
-<a href="https://es.linkedin.com/in/adri%C3%A1n-arnaiz-fern%C3%A1ndez-b67743227/en?trk=people-guest_people_search-card" style="padding: 5px; background-color: #0E76A8; color: #fff; font-size: 16px; border-radius: 10px; text-decoration: none">Linkedin</a>
-<a href="mailto:adri.arnaizfernandez@gmail.com" style="padding: 5px; background-color: #C70039 ; color: #fff; font-size: 16px; border-radius: 10px; text-decoration: none">Email</a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=Personio&logoColor=000)](https://arnaizdev.com)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://es.linkedin.com/in/adri%C3%A1n-arnaiz-fern%C3%A1ndez-b67743227/en?trk=people-guest_people_search-card)
+
+<a href="mailto:adri.arnaizfernandez@gmail.com">![Mail](https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Minutemailer&logoColor=fff)</a>
+
 </div>
+
