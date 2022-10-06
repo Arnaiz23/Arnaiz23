@@ -14,7 +14,7 @@ I'm Adrián Arnaiz Fernández. Currently I doing practise of "Grado Superior" in
 * [Linkedin](https://es.linkedin.com/in/adri%C3%A1n-arnaiz-fern%C3%A1ndez-b67743227/en?trk=people-guest_people_search-card)
 * <a href="mailto:adri.arnaizfernandez@gmail.com">Email</a>
     
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
 
 <div style="flex: 1;">
 
@@ -39,7 +39,7 @@ I'm Adrián Arnaiz Fernández. Currently I doing practise of "Grado Superior" in
 
 </div>
 
-<div>
+<div style="flex: 1;">
 
 ## Most used languages
 
