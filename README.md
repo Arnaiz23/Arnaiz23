@@ -16,7 +16,7 @@ I'm Adrián Arnaiz Fernández. Currently I doing practise of "Grado Superior" in
     
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr;">
 
-<div style="">
+<div style="width: 50%">
 
 ## My stack technologies
 
