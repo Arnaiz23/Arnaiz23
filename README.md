@@ -6,8 +6,9 @@
 
 ## console.log("Hello World :wave:")
 
-I'm Adrián Arnaiz Fernández.  I'm a frontend developer.
+I'm Adrián Arnaiz Fernández and a frontend developer. <br/>
 Currently I'm searching my first job.
+I like create web applications that my necesities and for hobbie.
 
 ## My stack technologies
 
