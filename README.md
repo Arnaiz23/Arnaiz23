@@ -6,17 +6,8 @@
 
 ## console.log("Hello World :wave:")
 
-I'm Adrián Arnaiz Fernández. Currently I doing practise of "Grado Superior" in the business SecretAligner. I'm a frontend developer.
-
-## Contact
-
-* [Portfolio](https://arnaizdev.com)
-* [Linkedin](https://es.linkedin.com/in/adri%C3%A1n-arnaiz-fern%C3%A1ndez-b67743227/en?trk=people-guest_people_search-card)
-* <a href="mailto:adri.arnaizfernandez@gmail.com">Email</a>
-    
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr;">
-
-<div style="">
+I'm Adrián Arnaiz Fernández.  I'm a frontend developer.
+Currently I'm searching my first job.
 
 ## My stack technologies
 
@@ -37,14 +28,30 @@ I'm Adrián Arnaiz Fernández. Currently I doing practise of "Grado Superior" in
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=fff)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=fff)
 
-</div>
-
-<div style="flex: 1;">
 
 ## Most used languages
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaiz23&layout=compact)
 
-</div>
 
+## My Set-up
+
+```js
+
+const setUp = {
+    "OS" : "Linux - ArchLinux - Qtile - GNOME",
+    "ide" : [
+        "Neovim - TMUX",
+        "VSCode"
+    ]
+}
+
+```
+
+## Contact
+
+<div style="display: flex; gap: 10px; align-items: center; justify-content: flex-start;">
+<a href="https://arnaizdev.com" style="padding: 5px; background-color: #3e4144; color: #fff; font-size: 16px; border-radius: 10px; text-decoration: none">Portfolio</a>
+<a href="https://es.linkedin.com/in/adri%C3%A1n-arnaiz-fern%C3%A1ndez-b67743227/en?trk=people-guest_people_search-card" style="padding: 5px; background-color: #0E76A8; color: #fff; font-size: 16px; border-radius: 10px; text-decoration: none">Linkedin</a>
+<a href="mailto:adri.arnaizfernandez@gmail.com" style="padding: 5px; background-color: #C70039 ; color: #fff; font-size: 16px; border-radius: 10px; text-decoration: none">Email</a>
 </div>
