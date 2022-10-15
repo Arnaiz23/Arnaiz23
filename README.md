@@ -28,6 +28,8 @@ I like create web applications that my necesities and for hobbie.
 ![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=GNOME%20Terminal&logoColor=fff)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=fff)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=fff)
+![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=Neovim&logoColor=fff)
+![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=fff)
 
 
 ## Most used languages
