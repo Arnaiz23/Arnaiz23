@@ -8,7 +8,7 @@
 
 I'm Adrián Arnaiz Fernández and a frontend developer. <br/>
 Currently I'm searching my first job.
-I like create web applications that my necesities and for hobbie.
+I like create web applications for my necesities and for hobbie.
 
 ## My stack technologies
 
