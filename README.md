@@ -19,6 +19,7 @@ I like create web applications for my necesities and for hobbie.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000)
 ![Next](https://img.shields.io/badge/Next-000?style=for-the-badge&logo=Next.js&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFF00)
+![PHP](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=Php&logoColor=FFFFFF)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=000)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=fff)
